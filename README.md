@@ -322,7 +322,7 @@ LISTNER: [Displays map with 5 nearest police stations with navigation links]
 ### 🏠 Home Page - Landing Experience
 
 <div align="center">
-<img src="screenshots/Screenshot 2023-09-04 124439.png" alt="LISTNER Home Page" width="800"/>
+<img src="screenshots/Screenshot 2023-09-04 125124.png" alt="LISTNER Home Page " width="800"/>
 
 *Beautiful landing page with clear value proposition and call-to-action*
 </div>
@@ -338,7 +338,9 @@ LISTNER: [Displays map with 5 nearest police stations with navigation links]
 ### 💬 Chat Interface - AI Conversation
 
 <div align="center">
+<img src="screenshots/Screenshot 2023-09-04 124439.png" alt="Police Stations" width="800"/>
 <img src="screenshots/Screenshot 2023-09-04 124532.png" alt="Chat Interface" width="800"/>
+
 
 *Interactive chatbot with real-time sentiment analysis and empathetic responses*
 </div>
@@ -355,10 +357,8 @@ LISTNER: [Displays map with 5 nearest police stations with navigation links]
 ### 🆘 Emergency Services - Location-Based Help
 
 <div align="center">
+<img src="screenshots/Screenshot 2023-09-04 125530.png" alt="About Section" width="800"/>
 
-**Police Stations Finder**
-
-<img src="screenshots/Screenshot 2023-09-04 125124.png" alt="Police Stations" width="800"/>
 
 **Hospital Locator**
 
@@ -380,16 +380,9 @@ LISTNER: [Displays map with 5 nearest police stations with navigation links]
 
 <div align="center">
 
-**YouTube Video Recommendations**
+**YouTube Video &Spotify Music Recommendations**
 
-<img src="screenshots/Screenshot 2023-09-04 125228.png" alt="YouTube Recommendations" width="400"/>
-
-**Spotify Music Recommendations**
-
-<img src="screenshots/Screenshot 2023-09-04 125258.png" alt="Spotify Recommendations" width="400"/>
-
-*Personalized content based on user's emotional state and needs*
-</div>
+<img src="screenshots/Screenshot 2023-09-04 124532.png" alt="Chat Interface" width="800"/>
 
 **Content Features:**
 - **Context-Aware Suggestions**: Videos/music matched to user's situation
@@ -435,8 +428,7 @@ LISTNER: [Displays map with 5 nearest police stations with navigation links]
 ### 📞 About Us & Contact
 
 <div align="center">
-<img src="screenshots/Screenshot 2023-09-04 125530.png" alt="About Section" width="800"/>
-
+<img src="screenshots/Screenshot 2023-09-04 125322.png" alt="Emergency Hub" width="800"/>
 *Team information and mission statement*
 </div>
 
@@ -456,18 +448,6 @@ LISTNER: [Displays map with 5 nearest police stations with navigation links]
 | **Emergency Buttons** | Quick access to critical services | `Screenshot 2023-09-04 125608.png` |
 | **Location Services** | GPS-based resource finder | `Screenshot 2023-09-04 125205.png` |
 | **Voice Input** | Speech-to-text conversation | `Screenshot 2023-09-04 124621.png` |
-
----
-
-### 📱 Responsive Design
-
-<div align="center">
-<img src="screenshots/Screenshot 2023-09-04 124621.png" alt="Mobile View" width="300"/>
-
-*Fully responsive design works seamlessly on all devices*
-</div>
-
----
 
 ### 🎭 Case Studies Display
 
