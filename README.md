@@ -535,23 +535,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 👥 Team
-
-**Team @Back_Benchers**
-
-### Team Leader
-**Bilva Sai Eswar Maddi**
-- 🎓 Computer Science and Business Systems
-- 🏛️ G. Pulla Reddy Engineering College
-- 📧 [catchbilvasai@gmail.com](mailto:catchbilvasai@gmail.com)
-
-### Team Members
-- **Siva Bharathi** - AI/ML Development
-- **Harika** - Frontend Development
-- **Rupa** - Backend Integration
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -570,7 +553,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Email**: [catchbilvasai@gmail.com](mailto:catchbilvasai@gmail.com)
+- **Email**: [catchbilvasaieswar@gmail.com](mailto:catchbilvasai@gmail.com)
 - **GitHub Issues**: [Report a bug](https://github.com/yourusername/LISTNER-AI-Life-Assistance-Chatbot/issues)
 - **LinkedIn**: [Connect with us](https://linkedin.com/in/yourprofile)
 
@@ -586,8 +569,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-
-**Made with ❤️ by Team @Back_Benchers**
 
 *Empowering lives through AI-driven assistance*
 
