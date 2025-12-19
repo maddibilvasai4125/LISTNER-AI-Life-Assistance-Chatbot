@@ -2,15 +2,14 @@
 
 <div align="center">
 
+**"Your dedicated wellness companion, offering guidance and support for career, mental health, domestic violence, and emergencies. Harness AI-driven assistance for a brighter life."**
+
+
 ![LISTNER Banner](https://img.shields.io/badge/LISTNER-AI%20Life%20Assistance-purple?style=for-the-badge)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
 [![IBM Watson](https://img.shields.io/badge/IBM-Watson-blue?style=for-the-badge&logo=ibm)](https://www.ibm.com/watson)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT-orange?style=for-the-badge&logo=openai)](https://openai.com/)
-
-**"Your dedicated wellness companion, offering guidance and support for career, mental health, domestic violence, and emergencies. Harness AI-driven assistance for a brighter life."**
-
-[Features](#-key-features) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Team](#-team)
 
 </div>
 
@@ -362,6 +361,7 @@ LISTNER: [Displays map with 5 nearest police stations with navigation links]
 **YouTube Video &Spotify Music Recommendations**
 
 <img src="screenshots/Screenshot 2023-09-04 124532.png" alt="Chat Interface" width="800"/>
+</div>
 
 **Content Features:**
 - **Context-Aware Suggestions**: Videos/music matched to user's situation
@@ -402,22 +402,6 @@ LISTNER: [Displays map with 5 nearest police stations with navigation links]
 - **Emergency Resources**: Alert systems and helpline numbers
 - **Mental Well-being**: Stress management and mindfulness support
 
----
-
-### 📞 About Us & Contact
-
-<div align="center">
-<img src="screenshots/Screenshot 2023-09-04 125322.png" alt="Emergency Hub" width="800"/>
-*Team information and mission statement*
-</div>
-
-**About Team @Back_Benchers:**
-- Innovation-driven team from G. Pulla Reddy Engineering College
-- Award-winning at Smart India Hackathon
-- Committed to solving real-world problems through AI
-- Passionate about public welfare and safety
-
----
 
 ### 🎨 User Interface Highlights
 
@@ -428,18 +412,6 @@ LISTNER: [Displays map with 5 nearest police stations with navigation links]
 | **Location Services** | GPS-based resource finder | `Screenshot 2023-09-04 125205.png` |
 | **Voice Input** | Speech-to-text conversation | `Screenshot 2023-09-04 124621.png` |
 
-### 🎭 Case Studies Display
-
-<div align="center">
-<img src="screenshots/Screenshot 2023-09-04 125414.png" alt="Case Studies" width="800"/>
-
-**Problem Solving Journey** | **Innovative Solutions Unveiled**
-- Real-world impact stories
-- User testimonials
-- Success metrics
-</div>
-
----
 
 ## 🔌 API Integrations
 
@@ -512,14 +484,6 @@ We welcome contributions! Please follow these steps:
 - Update documentation accordingly
 - Ensure all tests pass before submitting PR
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - IBM Watson for powerful AI capabilities
@@ -533,19 +497,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 - **Email**: [catchbilvasaieswar@gmail.com](mailto:catchbilvasai@gmail.com)
-- **GitHub Issues**: [Report a bug](https://github.com/yourusername/LISTNER-AI-Life-Assistance-Chatbot/issues)
-- **LinkedIn**: [Connect with us](https://linkedin.com/in/yourprofile)
-
----
-
-## 📊 Project Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/LISTNER-AI-Life-Assistance-Chatbot?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/LISTNER-AI-Life-Assistance-Chatbot?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/LISTNER-AI-Life-Assistance-Chatbot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/LISTNER-AI-Life-Assistance-Chatbot)
-
----
+- **LinkedIn**: [Connect with me ](https://www.linkedin.com/in/bilva-sai-eswar-maddi/)
 
 <div align="center">
 
