@@ -24,8 +24,8 @@ CORS(app)
  
 
 # Set up Spotify API credentials
-spotify_client_id = 'f6a39b4ced944548bb0e113a50cf75c9'
-spotify_client_secret = '8fd43f4519224846b0aee8c91aae224c'
+spotify_client_id = '**'
+spotify_client_secret = '**'
 spotify_client_credentials_manager = SpotifyClientCredentials(client_id=spotify_client_id, client_secret=spotify_client_secret)
 spotify = spotipy.Spotify(client_credentials_manager=spotify_client_credentials_manager)
 
@@ -34,16 +34,16 @@ spotify = spotipy.Spotify(client_credentials_manager=spotify_client_credentials_
 
  
 # Set up YouTube API credentials
-youtube_api_key = 'AIzaSyB3ifk3v6ynD528M6xsII-7e6Bl7mTcQgw'
+youtube_api_key = '**'
 youtube = build('youtube', 'v3', developerKey=youtube_api_key)
 
 
 
 
 # Set up Watson Assistant credentials
-watson_apikey = 'JS48HgiR8ZaH9LI4e-0fZjILcJCOZlWsjQ9cpOII-Zzv'
+watson_apikey = '**'
 watson_url = 'https://api.au-syd.assistant.watson.cloud.ibm.com/instances/9ec8db12-700e-4609-9219-bb7b7dedca69'
-watson_assistant_id = 'cfffa447-e999-4074-84aa-41529d5d9d6a'
+watson_assistant_id = '**'
 authenticator = IAMAuthenticator(watson_apikey)
 assistant = AssistantV2(
     version='2021-06-14',
@@ -53,7 +53,7 @@ assistant.set_service_url(watson_url)
 
 
 
-nlu_apikey = '6Q_obk2MPAP2OUbUc8XiuTSHjBGexpO5ZyOFAbi-jcz5'
+nlu_apikey = '**'
 nlu_url = 'https://api.au-syd.natural-language-understanding.watson.cloud.ibm.com/instances/ea57ac5d-afd5-4346-8924-8468858bdf55'
 nlu_authenticator = IAMAuthenticator(nlu_apikey)
 nlu = NaturalLanguageUnderstandingV1(
@@ -74,10 +74,10 @@ nlu.set_service_url(nlu_url)
 
 
 # Twilio credentials
-twilio_account_sid = 'AC5833ee6d1451dc386d19a3ddfd5a32b8'
-twilio_auth_token = 'ae5a8a7472a98818d279b881bb8e7acb'
-twilio_phone_number = '+18158699019'
-recipient_phone_number = '+918121284748'
+twilio_account_sid = '**'
+twilio_auth_token = '**'
+twilio_phone_number = '**'
+recipient_phone_number = '**'
 twilio_client = Client(twilio_account_sid, twilio_auth_token)
 
 # Dictionary to store user sessions
@@ -133,7 +133,7 @@ def service():
 def get_hospitals():
     location = request.args.get('location')
     radius =  request.args.get('radius')
-    API_KEY = 'AIzaSyDDgA9z2p_jv6l7-_0a0cnEO9WbfRB9rTA'
+    API_KEY = '**'
 
     api_url = f'https://maps.googleapis.com/maps/api/place/nearbysearch/json'
     params = {
@@ -156,7 +156,7 @@ def get_hospitals():
 def get_police_stations():
     location = request.args.get('location')
     radius = request.args.get('radius')
-    API_KEY = 'AIzaSyDDgA9z2p_jv6l7-_0a0cnEO9WbfRB9rTA'  # Replace with your actual API key
+    API_KEY = '**'  # Replace with your actual API key
 
     api_url = f'https://maps.googleapis.com/maps/api/place/nearbysearch/json'
     params = {
