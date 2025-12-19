@@ -14,27 +14,6 @@
 
 </div>
 
----
-
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Problem Statement](#-problem-statement)
-- [Key Features](#-key-features)
-- [Tech Stack](#-tech-stack)
-- [Architecture](#-architecture)
-- [Installation](#-installation)
-- [Configuration](#-configuration)
-- [Usage](#-usage)
-- [Screenshots](#-screenshots)
-- [API Integrations](#-api-integrations)
-- [Future Enhancements](#-future-enhancements)
-- [Contributing](#-contributing)
-- [Team](#-team)
-- [License](#-license)
-
----
-
 ## 🌟 Overview
 
 **LISTNER** is an AI-powered life assistance chatbot designed to provide comprehensive support in critical areas affecting public welfare. Built with cutting-edge technologies including IBM Watson, OpenAI GPT, and advanced NLP techniques, LISTNER offers empathetic, personalized assistance for:
