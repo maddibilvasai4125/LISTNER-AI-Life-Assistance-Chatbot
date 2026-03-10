@@ -494,10 +494,14 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📞 Contact & Support
+## 👤 Author
 
-- **Email**: [catchbilvasaieswar@gmail.com](mailto:catchbilvasai@gmail.com)
-- **LinkedIn**: [Connect with me ](https://www.linkedin.com/in/bilva-sai-eswar-maddi/)
+**Bilva Sai Eswar Maddi**
+
+- 🐙 GitHub: [@maddibilvasai4125](https://github.com/maddibilvasai4125)
+- 💼 LinkedIn: [Bilva Sai Eswar Maddi](https://www.linkedin.com/in/bilva-sai-eswar-maddi/)
+- 📧 Email: catchbilvasaieswar@gmail.com
+- 🌐 Portfolio: [My Portfolio](https://bilvasaieswarmaddi.com/)
 
 <div align="center">
 
