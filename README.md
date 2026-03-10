@@ -46,7 +46,120 @@ In today's fast-paced world, individuals face numerous challenges:
 **LISTNER addresses these challenges** by providing a 24/7 AI companion that offers confidential, empathetic, and immediate support across multiple domains.
 
 ---
+## 📸 Screenshots
 
+### 🎬 Video Demo
+
+<div align="center">
+
+[![LISTNER Demo Video](https://img.youtube.com/vi/g6QMIEdkbSw/maxresdefault.jpg)](https://youtu.be/g6QMIEdkbSw)
+
+**[▶️ Watch Full Demo on YouTube](https://youtu.be/g6QMIEdkbSw)**
+
+*Experience LISTNER in action - See how AI-powered assistance helps users in real-time*
+
+</div>
+
+---
+
+### 🏠 Home Page - Landing Experience
+
+<div align="center">
+<img src="screenshots/Screenshot 2023-09-04 125124.png" alt="LISTNER Home Page " width="800"/>
+
+*Beautiful landing page with clear value proposition and call-to-action*
+</div>
+
+**Features Highlighted:**
+- Modern purple gradient design with engaging visuals
+- Clear navigation: Home, Life Assistance, Services, Contact Us
+- Prominent "CHAT NOW!" button for immediate access
+- Compelling tagline: "Your dedicated wellness aid, offering guidance and support"
+
+---
+
+### 💬 Chat Interface - AI Conversation
+
+<div align="center">
+<img src="screenshots/Screenshot 2023-09-04 124439.png" alt="Police Stations" width="800"/>
+<img src="screenshots/Screenshot 2023-09-04 124532.png" alt="Chat Interface" width="800"/>
+
+
+*Interactive chatbot with real-time sentiment analysis and empathetic responses*
+</div>
+
+**Key Features:**
+- **Sentiment Analysis Display**: Shows user's emotional state (negative/positive)
+- **Empathetic Responses**: AI detects distress and provides appropriate support
+- **Emergency Recognition**: Instantly identifies danger keywords
+- **Voice Input**: "Start Recording" button for speech-to-text
+- **Quick Action Buttons**: Emergency, Chat, Violence shortcuts
+
+---
+
+### 🆘 Emergency Services - Location-Based Help
+
+<div align="center">
+<img src="screenshots/Screenshot 2023-09-04 125530.png" alt="About Section" width="800"/>
+
+
+**Hospital Locator**
+
+<img src="screenshots/Screenshot 2023-09-04 125205.png" alt="Hospitals" width="800"/>
+
+*Location-based emergency services with one-click navigation*
+</div>
+
+**Emergency Features:**
+- **Real-time Location Detection**: Finds nearest help based on user location
+- **Direct Navigation**: One-click "Navigate" buttons to Google Maps
+- **Comprehensive Listings**: 5+ nearest police stations and hospitals
+- **Complete Addresses**: Full contact information and directions
+- **Emergency Contacts**: Quick access to helpline numbers
+
+---
+
+### 🎵 Media Recommendations - Wellness Content
+
+<div align="center">
+
+**YouTube Video &Spotify Music Recommendations**
+
+<img src="screenshots/Screenshot 2023-09-04 124532.png" alt="Chat Interface" width="800"/>
+</div>
+
+**Content Features:**
+- **Context-Aware Suggestions**: Videos/music matched to user's situation
+- **Mental Wellness Focus**: Calming and supportive content
+- **Embedded Players**: Watch/listen directly within the interface
+- **Curated Playlists**: Pre-selected content for different emotional states
+
+---
+
+### 🏥 Emergency Resources Hub
+
+<div align="center">
+<img src="screenshots/Screenshot 2023-09-04 125322.png" alt="Emergency Hub" width="800"/>
+
+*Centralized emergency resource center with multiple assistance options*
+</div>
+
+**Available Services:**
+- Find Nearest Police Stations
+- Find Nearest Hospitals
+- Emergency Contacts Button
+- Mental Health Resources
+- Career Guidance Access
+
+---
+
+### 🎯 Services Overview
+
+<div align="center">
+<img src="screenshots/Screenshot 2023-09-04 125414.png" alt="Services Page" width="800"/>
+
+*Comprehensive service catalog with clear descriptions*
+</div>
 ## ✨ Key Features
 
 ### 🔐 Safety & Emergency
@@ -281,120 +394,7 @@ LISTNER: [Displays map with 5 nearest police stations with navigation links]
 
 ---
 
-## 📸 Screenshots
 
-### 🎬 Video Demo
-
-<div align="center">
-
-[![LISTNER Demo Video](https://img.youtube.com/vi/g6QMIEdkbSw/maxresdefault.jpg)](https://youtu.be/g6QMIEdkbSw)
-
-**[▶️ Watch Full Demo on YouTube](https://youtu.be/g6QMIEdkbSw)**
-
-*Experience LISTNER in action - See how AI-powered assistance helps users in real-time*
-
-</div>
-
----
-
-### 🏠 Home Page - Landing Experience
-
-<div align="center">
-<img src="screenshots/Screenshot 2023-09-04 125124.png" alt="LISTNER Home Page " width="800"/>
-
-*Beautiful landing page with clear value proposition and call-to-action*
-</div>
-
-**Features Highlighted:**
-- Modern purple gradient design with engaging visuals
-- Clear navigation: Home, Life Assistance, Services, Contact Us
-- Prominent "CHAT NOW!" button for immediate access
-- Compelling tagline: "Your dedicated wellness aid, offering guidance and support"
-
----
-
-### 💬 Chat Interface - AI Conversation
-
-<div align="center">
-<img src="screenshots/Screenshot 2023-09-04 124439.png" alt="Police Stations" width="800"/>
-<img src="screenshots/Screenshot 2023-09-04 124532.png" alt="Chat Interface" width="800"/>
-
-
-*Interactive chatbot with real-time sentiment analysis and empathetic responses*
-</div>
-
-**Key Features:**
-- **Sentiment Analysis Display**: Shows user's emotional state (negative/positive)
-- **Empathetic Responses**: AI detects distress and provides appropriate support
-- **Emergency Recognition**: Instantly identifies danger keywords
-- **Voice Input**: "Start Recording" button for speech-to-text
-- **Quick Action Buttons**: Emergency, Chat, Violence shortcuts
-
----
-
-### 🆘 Emergency Services - Location-Based Help
-
-<div align="center">
-<img src="screenshots/Screenshot 2023-09-04 125530.png" alt="About Section" width="800"/>
-
-
-**Hospital Locator**
-
-<img src="screenshots/Screenshot 2023-09-04 125205.png" alt="Hospitals" width="800"/>
-
-*Location-based emergency services with one-click navigation*
-</div>
-
-**Emergency Features:**
-- **Real-time Location Detection**: Finds nearest help based on user location
-- **Direct Navigation**: One-click "Navigate" buttons to Google Maps
-- **Comprehensive Listings**: 5+ nearest police stations and hospitals
-- **Complete Addresses**: Full contact information and directions
-- **Emergency Contacts**: Quick access to helpline numbers
-
----
-
-### 🎵 Media Recommendations - Wellness Content
-
-<div align="center">
-
-**YouTube Video &Spotify Music Recommendations**
-
-<img src="screenshots/Screenshot 2023-09-04 124532.png" alt="Chat Interface" width="800"/>
-</div>
-
-**Content Features:**
-- **Context-Aware Suggestions**: Videos/music matched to user's situation
-- **Mental Wellness Focus**: Calming and supportive content
-- **Embedded Players**: Watch/listen directly within the interface
-- **Curated Playlists**: Pre-selected content for different emotional states
-
----
-
-### 🏥 Emergency Resources Hub
-
-<div align="center">
-<img src="screenshots/Screenshot 2023-09-04 125322.png" alt="Emergency Hub" width="800"/>
-
-*Centralized emergency resource center with multiple assistance options*
-</div>
-
-**Available Services:**
-- Find Nearest Police Stations
-- Find Nearest Hospitals
-- Emergency Contacts Button
-- Mental Health Resources
-- Career Guidance Access
-
----
-
-### 🎯 Services Overview
-
-<div align="center">
-<img src="screenshots/Screenshot 2023-09-04 125414.png" alt="Services Page" width="800"/>
-
-*Comprehensive service catalog with clear descriptions*
-</div>
 
 **Our Services:**
 - **Career Paths**: Personalized career recommendations based on skills
